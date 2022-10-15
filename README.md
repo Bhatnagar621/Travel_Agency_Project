@@ -12,7 +12,7 @@ The main objective of the C++ project on Travelling agency is to make avail to t
 ## FUNCTIONS USED
 •	CLASS TRAVEL- This class is used for booking your trip through airplane. It includes booking for airplane, display bookings, search your bookings and delete your bookings. You can even choose available trips through flight from the options available and accordingly the charges will be printed in the receipt   At the end you can even confirm and delete your booking.
 
-#### PRIVATE MEMBERS:-
+#### PRIVATE MEMBERS:- 
 
 int mem;
 
